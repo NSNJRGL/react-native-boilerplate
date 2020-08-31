@@ -1,5 +1,6 @@
 ```bash
 yarn rename <new_name>
+
 Android
     - yarn install
     - yarn android
